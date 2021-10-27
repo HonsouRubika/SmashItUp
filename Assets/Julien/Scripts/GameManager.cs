@@ -71,6 +71,7 @@ public class GameManager : MonoBehaviour
         //SceneManager.LoadScene("Menu");
     }
 
+    //liste des gameMode présent dans le jeu (jouable)
     enum GameMode
     {
         CaptureTheFlag,
